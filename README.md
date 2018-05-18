@@ -1,2 +1,6 @@
 # poc-scheduling-tasks
-Example of scheduling with spring.
+
+
+Simple demonstration of a task schedule.
+
+Based on spring guides: https://spring.io/guides
